@@ -1,0 +1,17 @@
+#MenuBlock ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+#MenuBlock ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#MenuBlock ul li{
+    color: white;
+    padding-left: 150px;
+    padding-top: 10px;
+    list-style: none;
+}
