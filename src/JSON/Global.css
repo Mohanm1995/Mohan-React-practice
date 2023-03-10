@@ -1,0 +1,53 @@
+.firstblock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+img{
+    height: 200px;
+    width: 250px;
+}
+
+.mainBlock{
+    display: flex;
+    justify-content: space-around;
+}
+
+.secondblock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.thirdblock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+}
+
+.fourthblock{
+    border: 2px solid black;
+    width:300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+    background-color: aqua;
+}
+
+
+
+

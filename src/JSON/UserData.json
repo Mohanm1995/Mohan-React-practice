@@ -1,0 +1,144 @@
+[
+    {
+        "image" : "https://wallpaperaccess.com/full/2365091.jpg",
+        "movieName" : "KGF-2",
+        "director" : "Prashanth neel",
+        "actors" : ["Yash, ","Srinidhi Shetty"],
+        "year" : 2022
+    },
+    {
+        "image" : "https://wallpapercave.com/wp/wp11581871.jpg",
+        "movieName" : "Kantara",
+        "director" : "Rishabh shetty ",
+        "actors" : ["Rishabh shetty "],
+        "year" : 2022
+    },
+    {
+        "image" : "https://wallpaperaccess.com/full/8641598.jpg",
+        "movieName" : "Pathaan",
+        "director" : "Siddharth anand",
+        "actors" : ["Sharukh Khan "],
+        "year" : 2023
+    },
+    {
+        "image" : "https://777charlie.com/wp-content/uploads/2022/06/English.jpg",
+        "movieName" : "777 charlie",
+        "director" : "Kiranraj k",
+        "actors" : ["Charlie, ","Rakshith"],
+        "year" : 2022
+    },
+    {
+        "image" : "https://e1.pxfuel.com/desktop-wallpaper/795/572/desktop-wallpaper-chakde-india-amazon-ca-shahrukh-khan-shimit-amin-dvd-chak-de-india.jpg",
+        "movieName" : "Chak de India",
+        "director" : "Shimit amin",
+        "actors" : ["Sharukh khan"],
+        "year" : 2007
+    },
+    {
+        "image" : "https://wallpapercave.com/wp/wp11132305.jpg",
+        "movieName" : "Top Gun-Maverick",
+        "director" : "Joseph Kosnski",
+        "actors" : ["Tom Cruise"],
+        "year" : 2022
+    },
+    {
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_.jpg",
+        "movieName" : "Furious 7",
+        "director" : "James Wan",
+        "actors" : ["Vin Diesel "],
+        "year" : 2015
+    },
+    {
+        "image" : "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg",
+        "movieName" : "Avengers Endgame",
+        "director" : "Russo Brothers",
+        "actors" : ["RDJ, ", "Chris Evans" ],
+        "year" : 2019
+    },
+    {
+        "image" : "https://www.tvguide.com/a/img/catalog/provider/1/2/1-9050537522.jpg",
+        "movieName" : "Titanic",
+        "director" : "James Cameron",
+        "actors" : ["Leonardo, ", "Kate "],
+        "year" : 1997
+    },
+    {
+        "image" : "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+        "movieName" : "Dangal",
+        "director" : "Nitesh Tiwari",
+        "actors" : ["Aamir Khan"],
+        "year" : 2016
+    },
+    {
+        "image" : "https://www.themoviedb.org/t/p/original/sTNlPGZZyIAQeRVrtYYnBG5agxs.jpg",
+        "movieName" : "Thupaki",
+        "director" : "A.R,Murugadas",
+        "actors" : ["Vijay, ", "Kajal Agarwal"],
+        "year" : 2011
+    },
+    {
+        "image" : "https://m.media-amazon.com/images/M/MV5BYjcyNDNkMzMtNWVjOC00ZTdjLTg1YTAtODMzMjMzZjJlNzEzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg",
+        "movieName" : "RRR",
+        "director" : "S.S.Rajamouli",
+        "actors" : ["NTR, ", "Ram Charan"],
+        "year" : 2022
+    },
+    {
+        "image" : "https://data1.ibtimes.co.in/photo/en/full/59802/raajakumara-upcoming-kannada-action-movie-written-directed-by-santhosh-ananddram-produced-by.jpg?w=792",
+        "movieName" : "Raajakumara",
+        "director" : "Santhosh Anandram",
+        "actors" : ["Puneeth Rajkumar "],
+        "year" : 2017
+    },
+    {
+        "image" : "https://www.thetelugufilmnagar.com/wp-content/uploads/2019/02/temper01.jpg",
+        "movieName" : "Temper",
+        "director" : "Puri Jagannath",
+        "actors" : ["NTR, ", "Kajal Agarwal"],
+        "year" : 2015
+    },
+    {
+        "image" : "https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUtZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+        "movieName" : "Premam",
+        "director" : "Alphonse Puthren ",
+        "actors" : ["Nivin, ", "Sai pallavi"],
+        "year" : 2015
+    },
+    {
+        "image" : "https://upload.wikimedia.org/wikipedia/en/6/6f/War_official_poster.jpg",
+        "movieName" : "War",
+        "director" : "siddharth anand",
+        "actors" : ["Hrithik, ", "Tiger"],
+        "year" : 2019
+    },
+    {
+        "image" : "https://m.media-amazon.com/images/M/MV5BNmQ4ODExMGYtMDU1Mi00NzM1LTg3ZWMtMmFjZWU1MzllNDdhXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg",
+        "movieName" : "Vikranth Rona",
+        "director" : "Anup Bhandari ",
+        "actors" : ["Sudeep "],
+        "year" : 2022
+    },
+    {
+        "image" : "https://upload.wikimedia.org/wikipedia/en/4/47/MM-02.jpg",
+        "movieName" : "Mungaru Male",
+        "director" : "Yogaraj Bhat ",
+        "actors" : ["Ganesh, ", "Pooja "],
+        "year" : 2007
+    },
+    {
+        "image" : "https://e1.pxfuel.com/desktop-wallpaper/862/468/desktop-wallpaper-bahubali-baahubali-thumbnail.jpg",
+        "movieName" : "Baahubali",
+        "director" : "S.S.Rajamouli",
+        "actors" : ["Prabhas, ", "Rana"],
+        "year" : 2015
+    },
+    {
+        "image" : "https://m.media-amazon.com/images/M/MV5BNDExZjFiYjItMmM3OS00OGUxLTliMTctMzFhZDkzMmFhMzY1XkEyXkFqcGdeQXVyMTA1NTAyMjAw._V1_FMjpg_UX1000_.jpg",
+        "movieName" : "Saaho",
+        "director" : "Sujeeth ",
+        "actors" : ["Prabhas, ", "Shraddha"],
+        "year" : 2019
+    }
+
+
+]
