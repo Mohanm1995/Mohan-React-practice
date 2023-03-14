@@ -1,0 +1,50 @@
+[{
+    "stdName" : "Mohan",
+    "age" : 27,
+    "gender" : "Male",
+    "dob" : "20-10-1995",
+    "course" : "MERN Stack",
+    "id" : 101,
+    "photo" : "https://e1.pxfuel.com/desktop-wallpaper/732/405/desktop-wallpaper-cartoon-dp-boy-for-whatsapp-handsome-boy-cartoon-thumbnail.jpg",
+    "phone" : [12345, 34125]
+},
+{
+    "stdName" : "Daddus",
+    "age" : 24,
+    "gender" : "Female",
+    "dob" : "04-10-1999",
+    "course" : "JAVA Full Stack",
+    "id" : "102",
+    "photo" : "https://i.pinimg.com/originals/30/f8/cd/30f8cd676be3803e9ce0ca562f64434d.jpg",
+    "phone" : [32145, 31425]
+},
+{
+    "stdName" : "Naresh",
+    "age" : 26,
+    "gender" : "Male",
+    "dob" : "02-02-1996",
+    "course" : "MERN Stack",
+    "id" : "103",
+    "photo" : "https://e0.pxfuel.com/wallpapers/224/942/desktop-wallpaper-aesthetic-handsome-anime-boy-iphone-novocom-top-korean-webtoon.jpg",
+    "phone" : [22145, 41425]
+},
+{
+    "stdName" : "Mani",
+    "age" : 24,
+    "gender" : "Female",
+    "dob" : "24-12-1999",
+    "course" : "JAVA Full Stack",
+    "id" : "104",
+    "photo" : "https://i.pinimg.com/474x/de/99/93/de9993e752fc52646579448542c411d3.jpg",
+    "phone" : [22215, 42125]
+},{
+    "stdName" : "Nanda",
+    "age" : 23,
+    "gender" : "Female",
+    "dob" : "24-09-2000",
+    "course" : "JAVA Full Stack",
+    "id" : "105",
+    "photo" : "https://img.freepik.com/premium-vector/illustration-cartoon-character-cute-girl_82446-156.jpg",
+    "phone" : [31255, 36645]
+}
+]

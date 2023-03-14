@@ -1,0 +1,22 @@
+[
+    {
+        "userName" : "Buddus",
+        "age" : 27,
+        "gender" : "Male",
+        "dob" : "20-10-1995",
+        "occupation" : "MERN Stack Dev",
+        "salary" : "50000",
+        "photo" : "https://e1.pxfuel.com/desktop-wallpaper/732/405/desktop-wallpaper-cartoon-dp-boy-for-whatsapp-handsome-boy-cartoon-thumbnail.jpg",
+        "phone" : [12345, 34125]
+    },
+    {
+        "userName" : "Daddus",
+        "age" : 24,
+        "gender" : "Female",
+        "dob" : "04-10-1999",
+        "occupation" : "JAVA Full Stack Dev",
+        "salary" : "50000",
+        "photo" : "https://i.pinimg.com/originals/30/f8/cd/30f8cd676be3803e9ce0ca562f64434d.jpg",
+        "phone" : [32145, 31425]
+    }
+]
